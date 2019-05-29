@@ -1,0 +1,11 @@
+.well {
+
+background: url("notebook2.png") repeat-y;
+line-height: 25px;
+padding: 5px 10px;
+font-family: courier new;
+word-wrap: normal;
+white-space:pre-wrap;
+font-size: 28px;
+color:black;
+}
